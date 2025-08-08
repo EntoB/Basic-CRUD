@@ -66,3 +66,8 @@ After the containers are up and running, you can seed the database with sample d
 ```bash
 docker-compose exec backend npx sequelize-cli db:seed:all
 ```
+<img width="1684" height="730" alt="image" src="https://github.com/user-attachments/assets/52adff9e-4501-4260-86d4-4ecdc55f3945" />
+<img width="1245" height="876" alt="image" src="https://github.com/user-attachments/assets/43c5c00a-0704-43a6-b2fc-10349bc34170" />
+<img width="1237" height="908" alt="image" src="https://github.com/user-attachments/assets/507b4098-30d1-4805-8de7-3b26ca5eb3d9" />
+
+
